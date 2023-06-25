@@ -1,0 +1,15 @@
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\bin\Debug\net6.0\Experiment.exe
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\bin\Debug\net6.0\Experiment.deps.json
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\bin\Debug\net6.0\Experiment.runtimeconfig.json
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\bin\Debug\net6.0\Experiment.dll
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\bin\Debug\net6.0\Experiment.pdb
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\obj\Debug\net6.0\Experiment.csproj.AssemblyReference.cache
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\obj\Debug\net6.0\Experiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\obj\Debug\net6.0\Experiment.AssemblyInfoInputs.cache
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\obj\Debug\net6.0\Experiment.AssemblyInfo.cs
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\obj\Debug\net6.0\Experiment.csproj.CoreCompileInputs.cache
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\obj\Debug\net6.0\Experiment.dll
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\obj\Debug\net6.0\refint\Experiment.dll
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\obj\Debug\net6.0\Experiment.pdb
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\obj\Debug\net6.0\Experiment.genruntimeconfig.cache
+C:\Users\Vishwanath B Hiremat\source\repos\Experiment\Experiment\obj\Debug\net6.0\ref\Experiment.dll
